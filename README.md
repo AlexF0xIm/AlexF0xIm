@@ -2,4 +2,6 @@
 
 # Hello, im web-developer from Russia
 
-https://img.shields.io/endpoint?url=<URL>&style<STYLE>
+<div id="header" align="center">
+  https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
+</div>
